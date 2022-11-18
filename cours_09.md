@@ -1,6 +1,8 @@
 # Cours 09 
 ## Retour sur la conférence d'Eidos
 
+## Je n'était pas présente durant la conférence. J'était en quarantaine.
+
 ### Intérêt
 Quelle partie de la conférence t'a intéressé le plus? Pourquoi? (2 à 3 lignes) 
 
