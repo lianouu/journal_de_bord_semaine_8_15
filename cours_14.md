@@ -3,11 +3,14 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Résumer le projet en une phrase concise. 
+
 Création d'une nouvelle boisson gazeuse Coca Cola santé.
 
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
+
+Moi et mon coéquipier (Antoine Barrette-Sévigny) on a voulu créer une nouvelle cannette de Coca Cola. La cannette Cola Healty est une boisson gazeuse qui a le goût du cola normal mais avec des arômes non artificiel. C'est une boisson unique qui va changer le coté gazeuse mauvaise pour la santé pour une boisson gazeuse bonne pour la santé.
 
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
@@ -20,7 +23,7 @@ Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moo
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
 Il n'y en aura pas car c'est une cannette, Selon moi, l'animation?
+
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
 Brainstorm, carte heuristique, scénarimage, programmation, direction artistique, modélisation 3D, animation 3D, textures, direction sonore et gestionnaire de projet.
-![image](https://user-images.githubusercontent.com/112189073/206776284-1fc109f6-4e05-49af-8409-b87c2b59af1d.png)
